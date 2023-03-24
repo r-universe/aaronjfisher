@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bootSVD"]
+	path = bootSVD
+	url = https://github.com/cran/bootSVD
+	shallow = true
+	registered = true
