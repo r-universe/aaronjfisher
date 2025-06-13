@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bootSVD"]
 	path = bootSVD
-	url = https://github.com/cran/bootSVD
+	url = https://github.com/aaronjfisher/bootsvd
